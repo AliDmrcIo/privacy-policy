@@ -1,0 +1,9 @@
+# AdMob app-ads.txt dosyası
+# Uygulama: Tabu
+# Uygulama ID: ca-app-pub-1289222653932331~5936552418
+
+# Google AdMob reklam ağı
+google.com, pub-1289222653932331, DIRECT, f08c47fec0942fa0
+
+# Bu dosya https://alidmrcio.github.io/privacy-policy/app-ads.txt adresinde erişilebilir
+# Reklam dolandırıcılığını önlemek için kullanılır
